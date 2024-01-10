@@ -1,0 +1,20 @@
+#friends {
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+#alertNote{
+    width: max-content;
+    margin: auto;
+}
+
+.close {
+    border: none; 
+    background-color: transparent;
+    font-size: 20px; 
+    position: absolute; 
+    right: 10px; 
+    top: 10px;
+    font-weight: 800;
+}
